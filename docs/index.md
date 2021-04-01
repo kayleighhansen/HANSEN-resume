@@ -2,6 +2,7 @@
 layout: resume
 title: Kayleigh Hansens
 ---
+
 # Kayleigh Hansen
 Junior Web Developer
 
@@ -12,11 +13,17 @@ Junior Web Developer
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Objective
+
+`2021`
+
+- Looking for internship and work opportunities in web development and software engineering 
+- Supporting my lifestyle as a future owner of many large dogs  
 
 ## Education
 
 `2016-2021`
-__Brigham Young University Idaho__, Rexburg ID
+_Brigham Young University Idaho_, Rexburg ID
 
 - Software Engineering/Web Development 3.3 GPA
 
@@ -25,29 +32,28 @@ __Brigham Young University Idaho__, Rexburg ID
 
 ### Internships
 
-`March 2021 - PRESENT`
-__My PC ER__, Rexburg, ID
 
+__My PC ER__ - Rexburg, ID<br>
+`March 2021 - PRESENT`
 - Junior Web Developer specializing in Wordpress
 - Managing multiple social media accounts
 
 
+__Software Projects TA__ - Rexburg, ID<br>
 `April 2021 - PRESENT`
-__Software Projects TA__
-
 - Find amd complete software projects for businessed around the Rexburg area
 - Submit grades and assist the teacher in evaluating interns and students participating in the program
 
 
 ## Service and Work History
 
+
+__Service Missionary__, Montreal, CA<br>
 `2017-2019`
-__Service Missionary__, Montreal, CA
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+`Last updated: May 2013`
 
 
