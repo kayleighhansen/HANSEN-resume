@@ -41,7 +41,7 @@ __My PC ER__ - Rexburg, ID<br>
 
 __Software Projects TA__ - Rexburg, ID<br>
 `April 2021 - PRESENT`
-- Find amd complete software projects for businessed around the Rexburg area
+- Find and complete software projects for local businesses
 - Submit grades and assist the teacher in evaluating interns and students participating in the program
 
 
