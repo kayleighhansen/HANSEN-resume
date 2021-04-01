@@ -22,9 +22,9 @@ Junior Web Developer
 
 ## Education
 
-`2016-2021`
-_Brigham Young University Idaho_, Rexburg ID
 
+_Brigham Young University Idaho_, Rexburg ID<br>
+`2016-2021`
 - Software Engineering/Web Development 3.3 GPA
 
 
