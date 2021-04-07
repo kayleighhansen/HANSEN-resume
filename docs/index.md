@@ -18,6 +18,7 @@ Junior Web Developer
 `2021`
 
 - Looking for internship and work opportunities in web development and software engineering 
+
 - Financially supporting my lifestyle as a future owner of many large dogs  
 
 ## Education
